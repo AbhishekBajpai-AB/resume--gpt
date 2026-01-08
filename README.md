@@ -72,7 +72,7 @@ A modern, AI-powered resume builder and analyzer that helps you create professio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akshat394/resume-gpt.git
+   git clone https://github.com/AbhishekBajpai-AB/resume--gpt.git
    cd resume-gpt
    ```
 
